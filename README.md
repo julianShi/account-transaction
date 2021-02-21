@@ -18,8 +18,7 @@ curl -X GET 'http://localhost:8080/account/ # Get all accounts
 
 ## Resources
 Video tutorials are available online 
-https://youtu.be/dZwGxrr4sEQ
-https://youtu.be/vgE69tJnfdQ
-or
-https://www.bilibili.com/video/BV1mb4y1R77C/
-https://www.bilibili.com/video/BV1DK4y1S7Aq/
+- https://youtu.be/dZwGxrr4sEQ
+- https://youtu.be/vgE69tJnfdQ
+- https://www.bilibili.com/video/BV1mb4y1R77C/
+- https://www.bilibili.com/video/BV1DK4y1S7Aq/
